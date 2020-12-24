@@ -1,4 +1,4 @@
-#Usage:  python log2csv.py --types IMU3 --i your_log_name.log --o my_2.csv
+#Usage:  python px4Parser.py --types IMU3 --i your_log_name.log --o my_2.csv
 
 from __future__ import print_function
 import csv
